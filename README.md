@@ -1,2 +1,2 @@
 # freepickem
-Football pickem website I through together for some friends
+Football pickem website I threw together for some friends
